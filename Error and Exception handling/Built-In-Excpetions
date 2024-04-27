@@ -1,0 +1,10 @@
+You’ve seen me write about two different named exceptions so far: NameError and ZeroDivisionError. What if I needed other exceptions?
+
+There is an entire list of Python’s exceptions that come with the standard library. These will probably suit almost every need that you have in handling any errors or exceptions.
+
+Here are just a few that might be important:
+
+KeyError – A key cannot be found in a dictionary
+IndexError – The index is out-of-bounds on an iterable object
+TypeError – A function or operation was used on the wrong type of object
+OSError – General operating system errors
